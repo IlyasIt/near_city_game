@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/near_city_game/static/css/main.69cc83b0.chunk.css",
+    "main.js": "/near_city_game/static/js/main.7033bbea.chunk.js",
+    "main.js.map": "/near_city_game/static/js/main.7033bbea.chunk.js.map",
+    "runtime-main.js": "/near_city_game/static/js/runtime-main.de5df6c3.js",
+    "runtime-main.js.map": "/near_city_game/static/js/runtime-main.de5df6c3.js.map",
+    "static/css/2.86df01db.chunk.css": "/near_city_game/static/css/2.86df01db.chunk.css",
+    "static/js/2.2af75274.chunk.js": "/near_city_game/static/js/2.2af75274.chunk.js",
+    "static/js/2.2af75274.chunk.js.map": "/near_city_game/static/js/2.2af75274.chunk.js.map",
+    "index.html": "/near_city_game/index.html",
+    "precache-manifest.e5bb3300691f8f4ac9e4945c62ba4637.js": "/near_city_game/precache-manifest.e5bb3300691f8f4ac9e4945c62ba4637.js",
+    "service-worker.js": "/near_city_game/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/near_city_game/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.69cc83b0.chunk.css.map": "/near_city_game/static/css/main.69cc83b0.chunk.css.map",
+    "static/js/2.2af75274.chunk.js.LICENSE.txt": "/near_city_game/static/js/2.2af75274.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/near_city_game/static/media/city.bd78a5af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5df6c3.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.2af75274.chunk.js",
+    "static/css/main.69cc83b0.chunk.css",
+    "static/js/main.7033bbea.chunk.js"
+  ]
+}
