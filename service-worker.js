@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/near_city_game/precache-manifest.8534b952dc977f403dc4ad26171f9f0f.js"
+  "/near_city_game/precache-manifest.4be43fdc8c13f4d0b86f36e544f26352.js"
 );
 
 self.addEventListener('message', (event) => {
