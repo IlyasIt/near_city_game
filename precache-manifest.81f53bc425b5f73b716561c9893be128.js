@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6edb275035df6abba9b2f7c6a903baf",
+    "revision": "d7bc141cd49fa573a675e4f241227d58",
     "url": "/near_city_game/index.html"
   },
   {
-    "revision": "031af6da9af21ca51213",
+    "revision": "1015606a8b1658f838da",
     "url": "/near_city_game/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "85018486d641633367b8",
-    "url": "/near_city_game/static/css/main.8042cec9.chunk.css"
+    "revision": "8890eb03ba255bc30686",
+    "url": "/near_city_game/static/css/main.67b21203.chunk.css"
   },
   {
-    "revision": "031af6da9af21ca51213",
-    "url": "/near_city_game/static/js/2.ed9c4048.chunk.js"
+    "revision": "1015606a8b1658f838da",
+    "url": "/near_city_game/static/js/2.b4764ffb.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/near_city_game/static/js/2.ed9c4048.chunk.js.LICENSE.txt"
+    "url": "/near_city_game/static/js/2.b4764ffb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85018486d641633367b8",
-    "url": "/near_city_game/static/js/main.5da44a78.chunk.js"
+    "revision": "8890eb03ba255bc30686",
+    "url": "/near_city_game/static/js/main.73f13fd4.chunk.js"
   },
   {
     "revision": "3d8b167f4e317a3d722d",
